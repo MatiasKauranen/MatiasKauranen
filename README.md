@@ -4,12 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer Student
 -------------------------
 
-Third-year information technology student spesializing in software development. Interested in web development
+Third-year information technology student spesializing in software development.
+I'm interested in web development
 
 *   🌍  I'm based in Oulu
 *   ✉️  You can contact me at [matias.kauranen@gmail.com](mailto:matias.kauranen@gmail.com)
 *   🚀  I'm currently working on [Full Stack Open](http://github.com/MatiasKauranen/Full-Stack-Open)
 *   🧠  I'm learning React, Redux, Node.js, MongoDB, GraphQL and TypeScript
+*   👇  Check my pinned projects below
 
 ### Skills 
 <p align="left">
