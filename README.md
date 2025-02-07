@@ -10,7 +10,7 @@ I'm interested in web development
 *   🌍  I'm based in Oulu
 *   ✉️  You can contact me at [matias.kauranen@gmail.com](mailto:matias.kauranen@gmail.com)
 *   🚀  I'm currently working on my Bachelor's thesis
-*   🧠  I'm learning React, Redux, Node.js, MongoDB, GraphQL and TypeScript
+*   🧠  I'm learning React, TypeScript, Vitest, Playwright
 *   👇  Check my pinned projects below
 
 ### Skills 
