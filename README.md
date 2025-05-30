@@ -1,16 +1,15 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matias
 ==============================================================================================================================
 
-Software Engineer Student
+Software Developer / Test Engineer
 -------------------------
 
-Third-year information technology student spesializing in software development.
-I'm interested in web development
+Software Developer and Test Engineer with experience from various projects using technologies such as React, TypeScript, Nextjs, Robot Framework and SeleniumLibrary
 
 *   🌍  I'm based in Oulu
 *   ✉️  You can contact me at [matias.kauranen@gmail.com](mailto:matias.kauranen@gmail.com)
-*   🚀  I'm currently working on my Bachelor's thesis
-*   🧠  I'm learning React, TypeScript, Vitest, Playwright
+*   🚀  I'm currently working on my own projects
+*   🧠  I'm learning Azure
 *   👇  Check my pinned projects below
 
 ### Skills 
