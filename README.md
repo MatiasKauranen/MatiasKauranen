@@ -7,7 +7,6 @@ Software Developer & Test Engineer
 Software Developer and Test Engineer with experience from various projects using technologies such as React, TypeScript, Nextjs, Robot Framework and SeleniumLibrary
 
 *   🌍  I'm based in Oulu.
-*   ✉️  You can contact me at [matias.kauranen@gmail.com](mailto:matias.kauranen@gmail.com)
 *   🚀  I'm working on my own projects.
 *   🧠  I'm currently learning Microsoft Azure.
 *   👇  Check my pinned projects below.
