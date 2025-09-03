@@ -9,7 +9,8 @@ Software Developer and Test Engineer with experience from various projects using
 *   🌍  I'm based in Oulu.
 *   🚀  I'm working on my own projects.
 *   🧠  I'm currently learning Microsoft Azure.
-*   👇  Check my pinned projects below.
+*   🗺️	Check my finnish map game: [Kuntapeli 2025](https://kuntapeli-2025.vercel.app/)
+*   👇  Check my other pinned projects below.
 
 ### 🛠️ Languages and Tools
 
