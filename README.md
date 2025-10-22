@@ -8,7 +8,7 @@ Full Stack Developer with experience from various projects using technologies su
 
 *   🌍  I'm based in Oulu, Finland.
 *   🧠	I'm currently learning Microsoft Azure.
-*   📚	I'm currently studying security engineering and data mining at Open University.
+*   📚	I'm currently studying deep learning and multimodal data fusion at Open University.
 *   🗺️	Check my finnish map game: [Kuntapeli 2025](https://kuntapeli-2025.vercel.app/)
 *   👇  Check my other pinned projects below.
 
