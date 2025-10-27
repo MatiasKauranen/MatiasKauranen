@@ -45,6 +45,3 @@ Full Stack Developer with experience from various projects using technologies su
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/>
 </div>
                     
-### Socials
-
-[<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/matiaskauranen)
