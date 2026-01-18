@@ -4,11 +4,11 @@ Hi, my name is Matias
 Full Stack Developer
 -------------------------
 
-Full Stack Developer with experience from various projects using technologies such as React, TypeScript, Nextjs, C#, ASP.Net Core, Robot Framework and SeleniumLibrary
+Full Stack Developer with experience from various projects using technologies such as React, TypeScript, Nextjs, C#, ASP.Net Core, Playwright, Robot Framework and SeleniumLibrary
 
 *   🌍  I'm based in Oulu, Finland.
 *   🧠	I'm currently learning Azure Data Engineering.
-*   📚	I'm currently studying deep learning and multimodal data fusion at Open University.
+*   📚	I'm currently studying machine learning at Oulu Open University.
 *   🗺️	Check my finnish map game: [Kuntapeli 2025](https://kuntapeli-2025.vercel.app/)
 *   👇  Check my other pinned projects below.
 
