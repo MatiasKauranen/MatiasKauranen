@@ -4,10 +4,10 @@ Hi, my name is Matias
 Full Stack Developer
 -------------------------
 
-Full Stack Developer with experience from various projects using technologies such as React, TypeScript, Nextjs, C#, ASP.Net Core, EF Core, Playwright, Robot Framework and SeleniumLibrary
+Full Stack Developer with experience from various SaaS projects using technologies such as TypeScript, React.js, Next.js, C#, ASP.Net Core, EF Core, Playwright, Robot Framework, SeleniumLibrary, Microsoft SQL Server and MongoDB.
 
 *   🌍  I'm based in Oulu, Finland.
-*   🧠	I'm currently learning Azure Development.
+*   🧠	I'm currently learning React Native.
 *   🗺️	Check my Finnish map game: [Kuntapeli 2025](https://kuntapeli-2025.vercel.app/)
 *   👇  Check my other pinned projects below.
 
