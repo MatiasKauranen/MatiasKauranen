@@ -1,7 +1,7 @@
 Hi, my name is Matias
 ==============================================================================================================================
 
-Full Stack Developer
+Software Developer
 -------------------------
 
 Full Stack Developer with experience from various SaaS projects using technologies such as TypeScript, React.js, Next.js, C#, ASP.Net Core, EF Core, Playwright, Robot Framework, SeleniumLibrary, Microsoft SQL Server and MongoDB.
