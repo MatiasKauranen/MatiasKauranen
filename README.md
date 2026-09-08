@@ -4,7 +4,7 @@ Hi, my name is Matias
 Software Developer
 -------------------------
 
-Full Stack Developer with experience from various SaaS projects using technologies such as TypeScript, React.js, Next.js, C#, ASP.Net Core, EF Core, Playwright, Robot Framework, SeleniumLibrary, Microsoft SQL Server and MongoDB.
+Software Developer with experience from various SaaS projects using technologies such as TypeScript, React.js, Next.js, C#, ASP.Net Core, EF Core, Playwright, Robot Framework, SeleniumLibrary, Microsoft SQL Server and MongoDB.
 
 *   🌍  I'm based in Oulu, Finland.
 *   🧠	I'm currently learning React Native.
